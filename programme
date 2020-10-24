@@ -1,12 +1,13 @@
 Live Demo
 #include <iostream>
 #include <vector>
-using namespace std
+using namespace std;
+ 
 int main() {
 
    // create a vector to store int
-  r<int> vec
-   int 
+   vector<int> vec; 
+   int i;
 
    // display the original size of vec
    cout << "vector size = " << vec.size() << endl;
